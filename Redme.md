@@ -15,7 +15,7 @@
 誰が見ても使えるように分かりやすくしたつもりだが、かんざしへの理解が十分でないと難しい部分があるかもしれない。
 このシートでは、生協で売っている角材の寸法を基に長さ900mmとして計算しているのでご注意を。
 
-! [竜海_かんざし計算.xlsx](https://github.com/user-attachments/files/19748230/_.xlsx)
+[竜海_かんざし計算.xlsx](https://github.com/user-attachments/files/19748230/_.xlsx)
 
 
 ### GFについて
